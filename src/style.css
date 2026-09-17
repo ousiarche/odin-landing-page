@@ -166,7 +166,6 @@ cite {
 
 #main-signup {
   padding: 100px 300px;
-  height: 500px;
 }
 
 .card {
@@ -202,4 +201,12 @@ main {
 
 .btwn {
   justify-content: space-evenly;
+}
+
+footer {
+  text-align: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  height: 50px;
+  line-height: 50px;
 }
